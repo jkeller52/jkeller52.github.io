@@ -14,7 +14,7 @@ Education
 ======
 * B.S. in Human Systems Integration, Ohio State University, 2020
 * M.S. in Industrial and Systems Engineering, Ohio State University, 2022 (expected)
-* Ph.D in Cognitive Systems Engineering, Ohio State University, 2026 (expected)
+* Ph.D in Cognitive Systems Engineering, Ohio State University, 2025 (expected)
 
 Work experience
 ======
