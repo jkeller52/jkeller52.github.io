@@ -40,3 +40,7 @@ Skills
 Publications
 ======
 * A Critical Examination of Autonomous Flight Safety Systems from a Cognitive Systems Engineering Perspective: Challenges, Themes, and Outlying Risks
+
+
+Download LaTex CV Here: 
+cvurl: 'http://jkeller52.github.io/files/CV.pdf'
