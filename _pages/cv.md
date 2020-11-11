@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Human Systems Integration, Ohio State University, 2020
+* M.S. in Industrial and Systems Engineering, Ohio State University, 2022 (expected)
+* Ph.D in Cognitive Systems Engineering, Ohio State University, 2026 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2019 and 2020: Cognitive Systems Engineering Intern
+  * Resilient Cognitive Solutions
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: William Elm
 
-* Fall 2015: Research Assistant
-  * Github University
+* Fall 2018-Present: Research Assistant
+  * Ohio State University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Martijn IJtsma
   
 Skills
 ======
@@ -42,16 +42,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
