@@ -25,22 +25,20 @@ Work experience
 
 * Fall 2018-Present: Research Assistant
   * Ohio State University
-  * Duties included: Merging pull requests
-  * Supervisor: Martijn IJtsma
+  * Duties included: Performing literature searches, designing experiments, contributing to lab projects in healthcare, intelligence analysis, and space operations
+   * Supervisor: Martijn IJtsma
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Knowledge Elicitation
+* Cognitive Work Analysis
+* Stakeholder Analysis
+* Systems Thinking
 
 Publications
 ======
 * A Critical Examination of Autonomous Flight Safety Systems from a Cognitive Systems Engineering Perspective: Challenges, Themes, and Outlying Risks
 
 
-Download LaTex CV Here: 
-cvurl: 'http://jkeller52.github.io/files/CV.pdf'
+Download Full CV Here: 
+'http://jkeller52.github.io/files/CV.pdf'
