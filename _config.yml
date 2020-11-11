@@ -81,38 +81,27 @@ analytics:
 # Site Author
 author:
   name             : "Jacob Keller, BS"
-  avatar           : "profile.png"
-  bio              : "Student and Researcher"
+  avatar           : "IMG_9012.JPG"
+  bio              : "Student Researcher at Ohio State University"
   location         : "Columbus, Ohio"
-  employer         :
+  employer         : "Cognitive Systems Engineering Laboratory"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            :  "keller.974@osu.edu"
+  linkedin         : "https://www.linkedin.com/in/jacob-r-keller/"
   researchgate     :  "https://www.researchgate.net/profile/Jacob_Keller6"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "jkeller52"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jacob-r-keller/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
+  twitter          : #"replacethistwitterhandle"
   youtube          :
   wikipedia        :
 
