@@ -43,7 +43,3 @@ Publications
   {% endfor %}</ul>
   
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
