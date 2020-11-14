@@ -6,6 +6,6 @@ collection: portfolio
 
 The proposed work will span the majority of my PhD studies, culminating in the development of an interaction architecture that supports human-robot interaction at various levels of abstraction.
 
-lick  ![Chere to download the project narrative](jkeller52.github.io/blob/master/files/ProjectNarrative.pdf) describing my ambitious research proposal
+lick  ![Chere to download the project narrative](/master/files/ProjectNarrative.pdf) describing my ambitious research proposal
 
 
