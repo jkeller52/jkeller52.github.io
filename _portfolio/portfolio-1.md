@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "NASA Graduate Fellowship Proposal"
+excerpt: "Devised 4-year project proposal and course curriculum to span my PhD studies, delivering a software tool to facilitate advanved human-robot interaction.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
