@@ -1,6 +1,6 @@
 ---
 title: "NASA Graduate Fellowship Proposal"
-excerpt: "Devised 4-year project proposal to deliver a software tool supporting distributed human-robot interaction.<br/><img src='/images/ISS.jpg'>"
+excerpt: "Devised 4-year project proposal to deliver a software tool supporting distributed human-robot interaction.<br/><img src='/images/iss.jpg'>"
 collection: portfolio
 ---
 
