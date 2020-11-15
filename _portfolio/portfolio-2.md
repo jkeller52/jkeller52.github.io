@@ -10,3 +10,5 @@ My student team and I performed over eighty semi-structured interviews with stak
 [![](http://img.youtube.com/vi/IJsNBniOn5U/0.jpg)](http://www.youtube.com/watch?v=IJsNBniOn5U "Quality Assurance Standards for Commercial Flight Safety Analysis")
 
 Following the conclusion of this work, my interest in understanding the technical feasibility and complexities of automating a complex decisionmaking task has resulted in further academic work. An abstract was submitted and accepted to the International Astronuatical Congress 2020 in Dubai, but the paper was later withdrawn due to the COVID-19 pandemic. The paper is still in progress and will be published in 2021.
+
+You can download a copy of the preliminary [abstract here](files/IAC-20).
