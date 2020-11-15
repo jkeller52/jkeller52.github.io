@@ -4,6 +4,4 @@ excerpt: "Contributed to ongoing work within the Cognitive Systems Engineering L
 collection: portfolio
 ---
 
-
-
-You can view my student team's policy proposal and [final documentation here.](/files/SRE.pdf)
+This work was completed during my first months within the Cognitive Systems Engineering Lab and supported ongoing work within the [SNAFUCatchers Consortium](https://www.snafucatchers.com/). You can view my [literature search and summary here.](/files/SRE.pdf)
