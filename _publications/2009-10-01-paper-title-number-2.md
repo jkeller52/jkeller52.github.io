@@ -1,14 +1,16 @@
 ---
-title: "A CRITICAL EXAMINATION OF AUTONOMOUS FLIGHT SAFETY SYSTEMS FROM A COGNITIVE SYSTEMS ENGINEERING PERSPECTIVE: CHALLENGES, THEMES, AND OUTLYING RISKS"
+title: "A Critical Examination of Autonomous Flight Safety Systems From a Cognitive Systems Engineering Perspective: Challenges, Themes, and Outlying Risks"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /files/IAC-20.pdf
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2020-04-01
-venue: 'International Astronautical Congress 2020'
-paperurl: [IAC-20]'http://jkeller52.github.io/files/IAC-20.pdf'
+date: 2020-05-01
+venue: 'International Astronautical Congress'
+paperurl: 'http://academicpages.github.io/files/IAC-20.pdf'
 citation: 'Keller, J., IJtsma, M., & Newton, E. (In-Progress). A Critical Examination of Autonomous Flight Safety
 Systems from a Cognitive Systems Engineering Perspective: Challenges, Themes, and Outlying Risks.'
 ---
-This paper reviews the results of over 80 semi-structured interviews with stakeholders familiar with Autonomous Flight Safety Systems, bringing discussion surroduning the implications of automating this complex decision making task as it relates to general themes in cognitive systems engineering. Future work could include the development of an experimental testbed to faciliate AFSS testing with high ecological validity in the face of a complex and dynamic world.
+This paper is about the number 1. The number 2 is left for future work.
 
-[Download abstract here](http://jkeller.github.io/files/IAC-20.pdf)
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
