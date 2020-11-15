@@ -12,3 +12,5 @@ My student team and I performed over eighty semi-structured interviews with stak
 Following the conclusion of this work, my interest in understanding the technical feasibility and complexities of automating a complex decisionmaking task has resulted in further academic work. An abstract was submitted and accepted to the International Astronuatical Congress 2020 in Dubai, but the paper was later withdrawn due to the COVID-19 pandemic. The paper is still in progress and will be published in 2021.
 
 You can download a copy of the preliminary [abstract here](/files/IAC-20.pdf).
+
+You can view my student team's policy proposal and [final documentation here.](/files/Report)
