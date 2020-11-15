@@ -12,3 +12,4 @@ Systems from a Cognitive Systems Engineering Perspective: Challenges, Themes, an
 This paper reviews the results of over 80 semi-structured interviews with stakeholders familiar with Autonomous Flight Safety Systems, bringing discussion surroduning the implications of automating this complex decision making task as it relates to general themes in cognitive systems engineering. Future work could include the development of an experimental testbed to faciliate AFSS testing with high ecological validity in the face of a complex and dynamic world.
 
 [Download abstract here](http://jkeller.github.io/files/IAC-20.pdf)
+
