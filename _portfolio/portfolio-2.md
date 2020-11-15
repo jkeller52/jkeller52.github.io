@@ -13,4 +13,4 @@ Following the conclusion of this work, my interest in understanding the technica
 
 You can download a copy of the preliminary [abstract here](/files/IAC-20.pdf).
 
-You can view my student team's policy proposal and [final documentation here.](/files/Report)
+You can view my student team's policy proposal and [final documentation here.](/files/Report.pdf)
