@@ -5,7 +5,7 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-04-01
 venue: 'International Astronautical Congress 2020'
-paperurl: [IAC-20]'http://jkeller52.github.io/files/IAC-20.pdf'
+paperurl: 'http://jkeller52.github.io/files/IAC-20.pdf'
 citation: 'Keller, J., IJtsma, M., & Newton, E. (In-Progress). A Critical Examination of Autonomous Flight Safety
 Systems from a Cognitive Systems Engineering Perspective: Challenges, Themes, and Outlying Risks.'
 ---
