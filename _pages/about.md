@@ -13,7 +13,7 @@ My name is Jacob Keller and I’m an undergraduate researcher at Ohio State Univ
 Cognitive Systems Engineering: What It Is, and What It Has To Say
 ======
 
-Cognitive Systems Engineering is an emerging field that offers novel perspectives on traditional systems engineering practices. It considers the role of the practitioner within the work system, and often seeks to identify constraints of various natures (resource-based, cognitive, organizational, etc) in order to build intuitive tools to support expert navigation of system states to promote desired outcomes, and respond more effectively to the unexpected.
+Cognitive Systems Engineering is an emerging field that offers novel perspectives on traditional systems engineering practices. It considers the role of the practitioner within the work system, and often seeks to identify constraints of various natures (resource-based, cognitive, organizational, etc) in order to build intuitive tools to support expert navigation of system states to promote desired outcomes and respond more effectively to the unexpected.
 
 Rather than assuming (implicitly or explicitly) that human operators will be able to account for problems that arise within work, cognitive engineering aims to identify pitfalls and complexities within work so we can support operators when it matters most rather than expecting them to rise to unsurmountably difficult scenarios. It has proved a viable avenue to support operators in highly risky work domains such as space operations, nuclear power, and healthcare, among others. 
 
