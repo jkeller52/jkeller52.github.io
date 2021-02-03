@@ -80,17 +80,17 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jacob Keller, BS"
+  name             : "Jacob Keller"
   avatar           : "seattle.png"
-  bio              : "Student Researcher at Ohio State University"
+  bio              : "Graduate Researcher at Ohio State University"
   location         : "Columbus, Ohio"
-  employer         : "Cognitive Systems Engineering Lab"
+  employer         : "CSEL"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :  "keller.974@osu.edu"
-  linkedin         : "https://www.linkedin.com/in/jacob-r-keller/"
+  email            : "keller.974@osu.edu"
   github           : "jkeller52"
-  researchgate     :  "https://www.researchgate.net/profile/Jacob_Keller6"
+  linkedin         : "https://www.linkedin.com/in/jacob-r-keller/"
+  researchgate     :  #"https://www.researchgate.net/profile/Jacob_Keller6"
   google_plus      :
   keybase          :
   instagram        :
