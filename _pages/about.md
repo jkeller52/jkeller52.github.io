@@ -27,4 +27,5 @@ My interests primarily lie in leveraging the strengths of cognitive systems engi
   <figcaption>This concept art from NASA shows astronauts working in close proximity with robotic agents. The precise details of how they work together are one example of my research interests.</figcaption>
 
 
+
 This work and related topics will comprise the majority of my graduate studies. I am looking forward to embarking upon this journey, and am excited to see the results and overarching themes that this work can contribute to ongoing discussions surroduning the design and implementation of increasingly prevalent autonomous systems. 
