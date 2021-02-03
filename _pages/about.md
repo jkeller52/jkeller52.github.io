@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jacob Keller"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,9 +13,13 @@ My name is Jacob Keller and I’m an undergraduate researcher at Ohio State Univ
 Cognitive Systems Engineering: What It Is, and What It Has To Say
 ======
 
-Cognitive Systems Engineering is an emerging field that offers novel perspectives on traditional systems engineering practices. It considers the role of the practitioner within the work system, and often seeks to identify constraints of various natures (resource-based, cognitive, organizational, etc) in order to build intuitive tools to support expert navigation of system states to promote desired outcomes and respond more effectively to the unexpected.
+Cognitive Systems Engineering is an emerging field that offers novel perspectives on traditional systems engineering practices. It considers the world as a complex adaptive system, highlighting the role of the agents within the work system and their interactions as crucial drivers towards new system states. It often seeks to identify various types of constraints (resource-based, cognitive, organizational, etc) in order to support the design of tools and systems that exhibit resilience in the face of challenging circumstances.
 
 Rather than assuming (implicitly or explicitly) that human operators will be able to account for problems that arise within work, cognitive engineering aims to identify pitfalls and complexities within work so we can support operators when it matters most rather than expecting them to rise to unsurmountably difficult scenarios. It has proved a viable avenue to support operators in highly risky work domains such as space operations, nuclear power, and healthcare, among others. 
 
-Through designing interfaces which recognize the complexity of work, we can create integrated decision support to frame the information required for problem-solving in an incredibly salient fashion. Scholars in this area believe revolutionary information systems can be achieved to support high consequence and complexity work domains (several companies create these decision support systems, mostly supporting intelligence analysts facing data overload conditions). Through the careful engineering of decision support systems we can enable experts to wield their complex mental model of their domain to their advantage. This makes complexity a double-edged sword, rather than a hindrance, and allows us to wield it in the face of a dynamic and unpredictable world to enable new levels of expert performance and behavior. 
+So What?
+======
 
+My interests primarily lie in leveraging the strengths of cognitive systems engineering to bridge technical gaps in manned space operations. The design of human robot teams to traverse planetary surfaces during extra-vehicular activity (EVA) is an area of particular interest, as many questions surrounding the characteristics of the ideal human-robot team will surely be raised as the upcoming Artemis missions begin to take shape. Emerging methods for simulating the dyanmics of work in human-robot team performing complex tasks could guide the development of sophisticated human-robot systems that exhibit resilient behavior when pushed beyond traditional performance boundaries. In general, the careful and prescient design of human-robot systems will make it easier for astronauts to dynamically delegate authority and responsibility as the demands of the task at hand evolve and change. 
+
+This work and related topics will comprise the majority of my graduate studies. I am looking forward to embarking upon this journey, and am excited to see the results and overarching themes that this work can contribute to ongoing discussions surroduning the design and implementation of increasingly prevalent autonomous systems. 
