@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Jacob Keller and I’m an undergraduate researcher at Ohio State University. My research interests span multiple fields, drawing elements of computer science, cognitive psychology, visual analytics, and systems engineering. These interests coalesce within the emerging field of Cognitive Systems Engineering, offering valuable analytic frameworks and theoretical support for the design of human-machine systems within complex work domains. I graduated with a B.S. in Human Systems Integration in December 2020, and plan on beginning graduate studies in Cognitive Systems Engineering in Fall 2021.
 
-Click here[post]{% _posts/2020/11/CSE/.md %} to read a post explaining more about cognitive systems engineering.  
+Click [here](https://jkeller52.github.io/posts/2020/11/CSE/) to read a post explaining more about cognitive systems engineering.  
 
 My Research
 ======
