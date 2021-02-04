@@ -23,19 +23,8 @@ So What?
 My interests primarily lie in leveraging the strengths of cognitive systems engineering to bridge technical gaps in manned space operations. The design of human robot teams to traverse planetary surfaces during extra-vehicular activity (EVA) is an area of particular interest, as many questions surrounding the characteristics of the ideal human-robot team will surely be raised as the upcoming Artemis missions begin to take shape. Emerging methods for simulating the dyanmics of work in human-robot team performing complex tasks could guide the development of sophisticated human-robot systems that exhibit resilient behavior when pushed beyond traditional performance boundaries. In general, the careful and prescient design of human-robot systems will make it easier for astronauts to dynamically delegate authority and responsibility as the demands of the task at hand evolve and change. 
 
 
-gallery:
-  - url: https://github.com/jkeller52/jkeller52.github.io/blob/master/images/Artemis.png?raw=true
-    image_path: /images/Artemis.png
-    alt: "Artemis Concept Art"
-    title: "This concept art from NASA shows astronauts working in close proximity with robotic agents. The precise details of how they work together are one example of my research interests."
-      - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
+
+{% include figure image_path="/images/Artemis.png" alt="Artemis Concept Art" caption="This concept art from NASA shows astronauts working in close proximity with robotic agents. The precise details of how they work together are one example of my research interests." %}
 
 
 
