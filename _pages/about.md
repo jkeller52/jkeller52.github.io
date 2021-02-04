@@ -26,7 +26,8 @@ My interests primarily lie in leveraging the strengths of cognitive systems engi
 <figure>
 <br/><![image-center]src=('/images/Artemis.png')>
   <figcaption>This concept art from NASA shows astronauts working in close proximity with robotic agents. The precise details of how they work together are one example of my research interests.</figcaption>
-
+  
+![image-center]('/images/Artemis.png'){: .align-center}
  
 
 
