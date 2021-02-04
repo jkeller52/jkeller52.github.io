@@ -26,7 +26,7 @@ My interests primarily lie in leveraging the strengths of cognitive systems engi
 
 
 
-<![image-center]({{ "/images/Artemis.png" | relative_url }}){: .align-center}>
+<![image-center]({{ "/images/Artemis.png" | relative_url }}){: .align-center}><br/><img src='/images/Artemis.png'>"
 
 
 
