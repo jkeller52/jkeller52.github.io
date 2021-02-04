@@ -23,11 +23,14 @@ So What?
 My interests primarily lie in leveraging the strengths of cognitive systems engineering to bridge technical gaps in manned space operations. The design of human robot teams to traverse planetary surfaces during extra-vehicular activity (EVA) is an area of particular interest, as many questions surrounding the characteristics of the ideal human-robot team will surely be raised as the upcoming Artemis missions begin to take shape. Emerging methods for simulating the dyanmics of work in human-robot team performing complex tasks could guide the development of sophisticated human-robot systems that exhibit resilient behavior when pushed beyond traditional performance boundaries. In general, the careful and prescient design of human-robot systems will make it easier for astronauts to dynamically delegate authority and responsibility as the demands of the task at hand evolve and change. 
 
 
+gallery:
+  - url: /assets/images/Artemis.png
+    image_path: /images/Artemis.png
+    alt: "Artemis Concept Art"
+    title: "This concept art from NASA shows astronauts working in close proximity with robotic agents. The precise details of how they work together are one example of my research interests."
 
 
-<figure>
-  <img src="/images/Artemis.png" alt="NASA Artemis Concept Art" <figcaption>This concept art from NASA shows astronauts working in close proximity with robotic agents. The precise details of how they work together are one example of my research interests.</figcaption>
-</figure>
+
 
 
 This work and related topics will comprise the majority of my graduate studies. I am looking forward to embarking upon this journey, and am excited to see the results and overarching themes that this work can contribute to ongoing discussions surroduning the design and implementation of increasingly prevalent autonomous systems. 
