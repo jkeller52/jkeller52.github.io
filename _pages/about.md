@@ -24,10 +24,18 @@ My interests primarily lie in leveraging the strengths of cognitive systems engi
 
 
 gallery:
-  - url: /assets/images/Artemis.png
+  - url: https://github.com/jkeller52/jkeller52.github.io/blob/master/images/Artemis.png?raw=true
     image_path: /images/Artemis.png
     alt: "Artemis Concept Art"
     title: "This concept art from NASA shows astronauts working in close proximity with robotic agents. The precise details of how they work together are one example of my research interests."
+      - url: /assets/images/unsplash-gallery-image-2.jpg
+    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: /assets/images/unsplash-gallery-image-3.jpg
+    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
 
 
 
