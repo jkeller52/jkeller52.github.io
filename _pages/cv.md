@@ -21,14 +21,14 @@ Education
 
 Work Experience
 ======
-Summer 2019 and 2020: Cognitive Systems Engineering Intern
-Fall 2018-Present: Research Assistant
+* Summer 2019 and 2020: Cognitive Systems Engineering Intern
+* Fall 2018-Present: Research Assistant
 
 
 Skills
 ======
-Knowledge Elicitation
-Cognitive Work Analysis
-Stakeholder Analysis
-Systems Thinking
-Computational Modeling
+* Knowledge Elicitation
+* Cognitive Work Analysis
+* Stakeholder Analysis
+* Systems Thinking
+* Computational Modeling
