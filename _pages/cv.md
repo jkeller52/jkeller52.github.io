@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-!Experience
 [Download Full CV Here](http://jkeller52.github.io/files/CV.pdf)
 
 
