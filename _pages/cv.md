@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+!Experience
+[Download Full CV Here](http://jkeller52.github.io/files/CV.pdf)
 
 
 Education
@@ -17,4 +19,16 @@ Education
 * Ph.D in Cognitive Systems Engineering, Ohio State University, 2025 (expected)
 
 
-[Download Full CV Here](http://jkeller52.github.io/files/CV.pdf)
+Work Experience
+======
+Summer 2019 and 2020: Cognitive Systems Engineering Intern
+Fall 2018-Present: Research Assistant
+
+
+Skills
+======
+Knowledge Elicitation
+Cognitive Work Analysis
+Stakeholder Analysis
+Systems Thinking
+Computational Modeling
