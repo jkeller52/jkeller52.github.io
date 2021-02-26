@@ -25,8 +25,8 @@ Work Experience
 
 Skills
 ======
-* Knowledge Elicitation
-* Cognitive Work Analysis
 * Stakeholder Analysis
-* Systems Thinking
+* Cognitive Work Analysis
+* Knowledge Elicitation
 * Computational Modeling
+* Performing Field Research
