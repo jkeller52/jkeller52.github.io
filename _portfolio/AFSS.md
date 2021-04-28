@@ -1,6 +1,6 @@
 ---
 title: "FAA Autonomous Flight Safety Systems"
-excerpt: "Developed evaluation criteria and recommedations to the Federal Aviation Administration following detailed assesment of a disruptive emerging technology.<br/><img src='/images/logoPrint.png'>"
+excerpt: "Developed evaluation criteria and recommedations to the Federal Aviation Administration following detailed assesment of a disruptive emerging technology."
 collection: portfolio
 ---
 
