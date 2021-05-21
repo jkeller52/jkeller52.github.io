@@ -8,23 +8,46 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jacob Keller and I’m a recent college graduate and researcher at Ohio State University. My research interests span multiple fields, drawing elements of computer science, cognitive psychology, visual analytics, and systems engineering. These interests coalesce within the emerging field of Cognitive Systems Engineering, offering valuable analytic frameworks and theoretical support for the design of human-machine systems within complex work domains. After graduating with my B.S. in Human Systems Integration in December 2020, I will begin graduate studies in Cognitive Systems Engineering in Fall 2021.
+My name is Jacob Keller and I'm a Graduate Research Associate within the Department of Integrated Systems Engineering at Ohio State University. My research interests include human-machine teaming, resilience engineering, and computational modeling. 
 
+
+My work is highly interdisciplinary, drawing elements of control theory, cognitive psychology, computer science, and systems engineering to analyze complex sociotechnical systems. In my graudate studies, I hope to contribute to the development of novel engineering methodologies to increase the resilience of human-machine teams performing high-complexity, high risk activities such as space operations.
+
+Through studying and modeling interactions within work, I aim to derive methods which:
+- Identify engineering tradeoffs associated with automating aspects of work
+- Identify requirements for 
+- Recommend advantageous system architectures
+-   Promote decentralized control and adaptation in the face of novel environmental challenges
 
 
 My Research
 ======
+At the most basic level, I'm interested in understanding how to support interaction between teams performing complex work. By understanding the nature of interactions within work I believe that we can design more resilient systems to support these teams.
 
-My interests primarily lie in leveraging the strengths of cognitive systems engineering to bridge technical gaps in manned space operations. The design of human robot teams to traverse planetary surfaces during extra-vehicular activity (EVA) is an area of particular interest, as many questions surrounding the characteristics of the ideal human-robot team will surely be raised as the upcoming Artemis missions begin to take shape. Emerging methods for simulating the dynamics of work in human-robot teams could guide the development of sophisticated systems that exhibit resilient behavior when pushed beyond their performance boundaries. In general, this methodical and prescient design of human-robot systems will make it easier for astronauts to dynamically delegate authority, responsibility, and taskloads to other agents in the face of an uncertain, complex, and dangerous environment. 
+Here are some of the relationships I'm interested in exploring in my work:
+- How different agents roles are related in the work system
+- When the system breaks and
+
+including interdependencies between roles and agents, resource limitations, and communication architectures,
+
+
+Significant work studying performance in homogenous human teams 
+
+The design of human robot teams to traverse planetary surfaces during extra-vehicular activity (EVA) is an area of particular interest, as many questions surrounding the characteristics of human-robot teams will surely be raised as the upcoming Artemis missions begin to take shape. Emerging methods for simulating the dynamics of work in human-robot teams could guide the development of sophisticated systems that exhibit resilient behavior when pushed beyond their performance boundaries. In general, this methodical and prescient design of human-robot systems will make it easier for astronauts to dynamically delegate authority, responsibility, and taskloads to other agents in the face of an uncertain, complex, and dangerous environment. 
 
 
 
 <figure>
   <img src='/images/Artemis.png' alt="NASA Artemis Concept Art">
-  <figcaption> This concept art from NASA shows astronauts working in close proximity with robotic agents. The precise details of how they work together are one example of my research interests.</figcaption>
+  <figcaption> This concept art from NASA shows astronauts working in close proximity with robotic agents. The precise details of how they work together are one example of my research interests. How many robots should assist an astronaut performing surface EVA tasks? </figcaption>
 </figure>
 
 
 
 
-This work and related topics will comprise the majority of my graduate studies. I am looking forward to embarking upon this journey, and am excited to see the results and overarching themes that this work can contribute to ongoing discussions surroduning the design and implementation of increasingly prevalent autonomous systems. 
+Other Interests
+======
+Astrophotography
+Saxophone
+Politics/Philosophy
+
