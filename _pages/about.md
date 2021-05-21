@@ -43,8 +43,8 @@ Robust, resilient, and decentralized human-robot systems will pave the way towar
 
 Other Interests
 ======
-Astrophotography
-Saxophone
-Politics
-Philosophy
-SCUBA Diving
+-Astrophotography
+-Saxophone
+-Politics
+-Philosophy
+-SCUBA Diving
