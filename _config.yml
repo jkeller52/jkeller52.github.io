@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jacob Keller"
 title_separator          : "-"
 name                     : &name "Jacob Keller"
-description              : &description "Undergraduate Student and Researcher"
+description              : &description "Graduate Student Researcher"
 url                      : https://jkeller52.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jkeller52/jkeller52.github.io"
@@ -89,7 +89,7 @@ author:
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "keller.974@osu.edu"
   github           : "jkeller52"
-  linkedin         : "jacob-r-keller"
+  linkedin         : #"jacob-r-keller"
   researchgate     :  #"https://www.researchgate.net/profile/Jacob_Keller6"
   google_plus      :
   keybase          :
