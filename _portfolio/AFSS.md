@@ -20,17 +20,7 @@ Following the conclusion of this work, my interest in understanding the technica
 You can download a copy of the preliminary [abstract here](/files/IAC-21.pdf).
 
 You can view my student team's policy proposal and [final documentation here.](/files/Report.pdf)
-
-
-
-Travel and Knowledge Elicitation
-===
-
-Travel was an important component of our project. We met with regulators and engineers at the Federal Aviation Administration Office of Commercial Space Transportation (FAA AST) in Washington D.C. to further understand pain points related to AFSS.
-<figure>
-  <img src='/images/20210527_163017687_iOS.jpg' alt="">
-  <figcaption> Pictured Left to Right: Jacob Keller (OSU), Samantha Burmeister (OSU), Cameron Gude (FAA)</figcaption>
-</figure>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
 
 <figure>
   <img src='/images/20200313_172651555_iOS.jpg' alt="">
