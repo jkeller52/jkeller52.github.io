@@ -15,13 +15,13 @@ Education
 ======
 * B.S. in Human Systems Integration, Ohio State University, 2020
 * M.S. in Industrial and Systems Engineering, Ohio State University, 2023 (expected)
-* Ph.D in Cognitive Systems Engineering, Ohio State University, 2026 (expected)
 
 
 Work Experience
 ======
 * Summer 2019,2020: Cognitive Systems Engineering Intern, Resilient Cognitive Solutions
-* Fall 2018-Present: Research Assistant, Cognitive Systems Engineering Laboratory
+* Fall 2018-2020: Research Assistant, Cognitive Systems Engineering Laboratory
+* Summer 2021: Research Associate, Battelle Center for Science, Public Policy, and Engineering
 
 Skills
 ======
@@ -34,3 +34,5 @@ Skills
 Projects
 ======
 * [Federal Aviation Administration AST - Autonomous Flight Safety Systems (AFSS)](http://jkeller52.github.io/files/CV2021.pdf)
+* 
+*
