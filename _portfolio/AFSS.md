@@ -26,23 +26,24 @@ You can view my student team's policy proposal and [final documentation here.](/
 Travel and Knowledge Elicitation
 ===
 
-Travel was an important component of our project. We met with regulators and engineers at the Federal Aviation Administration Office of Commercial Space Transportation in Washington D.C. to further understand pain points related to AFSS.
+Travel was an important component of our project. We met with regulators and engineers at the Federal Aviation Administration Office of Commercial Space Transportation (FAA AST) in Washington D.C. to further understand pain points related to AFSS.
+<figure>
+  <img src='/images/20210527_163017687_iOS.jpg' alt="">
+  <figcaption> Pictured Left to Right: Jacob Keller (OSU), Samantha Burmeister (OSU), Cameron Gude (FAA)</figcaption>
+</figure>
 
 <figure>
-  <img src='/images/20200313_172651555_iOS.jpg' alt="NASA Artemis Concept Art">
-  <figcaption> This concept art from NASA shows astronauts working in close proximity with robotic agents. The precise details of how they work together are one example of my research interests. How many robots should assist an astronaut performing surface EVA tasks? How is control handed off between astronauts? What is the authority delegated to the robot to make decisions based on software rules and sensor inputs?</figcaption>
+  <img src='/images/20200313_172651555_iOS.jpg' alt="">
+  <figcaption> Cape Canaveral Air Force Station welcomed us for a tour and discussion with leading experts on AFSS.</figcaption>
 </figure>
 
 
 <figure>
-  <img src='/images/20200313_195138201_iOS.jpg' alt="NASA Artemis Concept Art">
-  <figcaption> This concept art from NASA shows astronauts working in close proximity with robotic agents. The precise details of how they work together are one example of my research interests. How many robots should assist an astronaut performing surface EVA tasks? How is control handed off between astronauts? What is the authority delegated to the robot to make decisions based on software rules and sensor inputs?</figcaption>
+  <img src='/images/20200313_195138201_iOS.jpg' alt="">
+  <figcaption></figcaption>
 </figure>
 
-<figure>
-  <img src='/images/20210527_163017687_iOS.jpg' alt="NASA Artemis Concept Art">
-  <figcaption> This concept art from NASA shows astronauts working in close proximity with robotic agents. The precise details of how they work together are one example of my research interests. How many robots should assist an astronaut performing surface EVA tasks? How is control handed off between astronauts? What is the authority delegated to the robot to make decisions based on software rules and sensor inputs?</figcaption>
-</figure>
+
 
 -----
 
