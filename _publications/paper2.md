@@ -6,6 +6,6 @@ excerpt: 'Paper examining the complexities and pitfalls introduced when automati
 date: 2020-02-12
 venue: 'International Astronautical Congress 2021'
 paperurl: 'http://jkeller52.github.io/files/IAC-21.pdf'
-citation: 'Keller, J., IJtsma, M., & Newton, E. (In-Progress; 2021) A Critical Examination of Autonomous Flight Safety
+citation: 'Keller, J., IJtsma, M., & Newton, E. (2021) A Critical Examination of Autonomous Flight Safety
 Systems from a Cognitive Systems Engineering Perspective: Challenges, Themes, and Outlying Risks'
 ---
