@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jacob Keller"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Jacob Keller"
 description              : &description "Graduate Research Associate"
