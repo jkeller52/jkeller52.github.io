@@ -14,8 +14,8 @@ accounted for in future modeling and evaluation efforts.'
 date: 2021-10-01
 venue: 'Human Factors and Ergonomics Society (2021)'
 
-citation: 'Keller, J., IJtsma, M.(2021) REQUIREMENTS FOR COMPUTATIONAL APPROACHES TO
-ANALYZING RESILIENCE IN HUMAN-MACHINE TEAMS'
+citation: 'Keller, J., IJtsma, M.(2021) Requirements For Computational Approaches To
+Analyzing Resilience In Human-Machine Teams'
 ---
 
 
