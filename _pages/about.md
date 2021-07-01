@@ -12,7 +12,7 @@ redirect_from:
 My name is Jacob Keller and I'm a Graduate Research Associate within the Department of Integrated Systems Engineering at Ohio State University. My research interests include human-machine teaming, resilience engineering, and computational modeling. 
 
 
-My work is highly interdisciplinary, drawing elements of control theory, cognitive psychology, computer science, and systems engineering to analyze complex sociotechnical systems. In my graudate studies, I hope to contribute to the development of novel engineering methodologies to increase the resilience of human-machine teams performing high-complexity, high risk activities such as space operations.
+My work is highly interdisciplinary, drawing elements of control theory, cognitive psychology, computer science, and systems engineering to analyze complex sociotechnical systems. In my graduate studies, I hope to contribute to the development of novel engineering methodologies to increase the resilience of human-machine teams performing high-complexity, high risk activities such as space operations.
 
 
 My Research
@@ -48,8 +48,7 @@ Robust, resilient, and decentralized human-robot systems will pave the way towar
 
 Other Interests
 ======
+-Video Games
 -Astrophotography
--Saxophone
--Politics
--Philosophy
+-Saxophone/Music
 -SCUBA Diving
