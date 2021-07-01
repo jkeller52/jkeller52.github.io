@@ -16,6 +16,11 @@ In December 2020, I graduated with a Bachelor's of Science in Human Systems Inte
 For the last several months, I've worked on a proposal for the Nasa Space Technology Graduate Research Opportunity 2021 Grant. This fellowship would secure funding for the duration of my doctoral degree, and allow me to pursue an indepedent, student-led research projkects
 
 
+### Etymology
+Human Systems Integration is a term heavily embedded in defense contract work, first coined in Army Systems Engineering work. 
+
+
+
 ## Philosophical Underpinnings of Human Systems Integration
 
 Headings are cool
