@@ -1,5 +1,5 @@
 ---
-permalink: /posts/hsi
+permalink: /pages/hsi
 title: "Human Systems Integration"
 excerpt: "HSI: Origins and Meaning"
 author_profile: false
