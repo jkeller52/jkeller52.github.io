@@ -1,3 +1,4 @@
+
 ---
 permalink: /
 title: "Home"
@@ -16,6 +17,10 @@ My work is highly interdisciplinary, drawing elements of control theory, cogniti
 
 My Research
 ======
+
+
+![AstrobeeGif](https://user-images.githubusercontent.com/70432484/124196130-c7b03f00-da99-11eb-9cb5-bb6b99b4f72a.gif)
+
 At the most basic level, I'm interested in understanding how to support interaction between teams performing complex work. By understanding the nature of interactions within work I believe that we can design more resilient systems to support these teams. This would include identifying specific features of work that would correlate with resilient behavior within human-machine teams. 
 
 Here are some of the relationships I'm interested in exploring in my work:
