@@ -19,6 +19,7 @@ My Research
 
 
 ![AstrobeeGif](https://user-images.githubusercontent.com/70432484/124196130-c7b03f00-da99-11eb-9cb5-bb6b99b4f72a.gif)
+*NASA's Astrobee Simulation Framework is being explored as a testbed for human-robot interaction studies*
 
 At the most basic level, I'm interested in understanding how to support interaction between teams performing complex work. By understanding the nature of interactions within work I believe that we can design more resilient systems to support these teams. This would include identifying specific features of work that would correlate with resilient behavior within human-machine teams. 
 
