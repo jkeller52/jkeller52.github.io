@@ -13,7 +13,7 @@ literature are summarized in a set of requirements that highlight key aspects of
 accounted for in future modeling and evaluation efforts.'
 date: 2021-10-01
 venue: 'Human Factors and Ergonomics Society (2021)'
-paperurl: 'https://jkeller52.github.io/files/testbed_requirements_final.pdf'
+
 citation: 'Keller, J., IJtsma, M.(2021) REQUIREMENTS FOR COMPUTATIONAL APPROACHES TO
 ANALYZING RESILIENCE IN HUMAN-MACHINE TEAMS'
 ---
