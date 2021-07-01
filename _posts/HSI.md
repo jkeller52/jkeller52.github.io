@@ -1,7 +1,7 @@
 ---
 title: 'Human Systems Integration'
 date: 2021-07-01
-permalink: /posts/HSI
+permalink: /posts/2021/07/HSI
 tags:
   - Interdisciplinary
   - Coursework
