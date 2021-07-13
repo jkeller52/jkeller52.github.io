@@ -15,10 +15,11 @@ I constantly update this website to reflect my most up-to-date thoughts and idea
 My Research
 ======
 
-
+<figure>
 ![AstrobeeGif](https://user-images.githubusercontent.com/70432484/124196130-c7b03f00-da99-11eb-9cb5-bb6b99b4f72a.gif)
-
-*A Gazebo simulation of NASA's Astrobee robot is being explored as a testbed for studying human-robot teamwork*
+  <img align="center">
+  *A Gazebo simulation of NASA's Astrobee robot is being explored as a testbed for studying human-robot teamwork*
+</figure>
 
 Broadly, I'm interested in exploring the interactions of humans and machines within complex work. A goal of this work is amplify and extend the human capability to know, perceive, decide, plan, act and collaborate by integrating system functions with the cognitive processes they need to support. As systems include increasingly sophisticated automated technologies, so too does the need for shrewd engineering practices to observe, identify, and compensate for tradeoffs associated with automation.
 
