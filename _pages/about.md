@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Jacob Keller. I grew up in Hebron, Kentucky, and graduated from Ohio State University in 2020 with my BS in [Human Systems Integration](https://jkeller52.github.io/posts/2021/07/HSI). Currently, I'm a Graduate Research Associate within the Department of Integrated Systems Engineering at Ohio State. My research interests include human-machine teaming, resilience engineering, and computational modeling.
 
-I constantly update this website to reflect my most up-to-date thoughts and ideas about my work. You may find some rough patches here and there, as the site is constantly under construction. 
+I continuously update this website to reflect my most up-to-date thoughts and ideas about my work. You may find some rough patches here and there, as the site is always under construction. 
 
 My Research
 ======
@@ -22,7 +22,7 @@ My Research
   *A Gazebo simulation of NASA's Astrobee robot is being explored as a testbed for studying human-robot teamwork*
 
 
-Broadly, I'm interested in exploring the interactions of humans and machines within complex work. A goal of this work is amplify and extend the human capability to know, perceive, decide, plan, act and collaborate by integrating system functions with the cognitive processes they need to support. Shrewd engineering practices drawn from Cognitive Systems Engineering and Resilience Engineering can help us build sociotechnical systems that best promote these capabilities.
+Broadly, I'm interested in exploring the interactions of humans and machines within complex work. A goal of my efforts is amplify and extend the human capability to know, perceive, decide, plan, act and collaborate by integrating system functions with the cognitive processes they need to support. Shrewd engineering practices drawn from Cognitive Systems Engineering and Resilience Engineering can inform the creation of sociotechnical systems that best promote these capabilities.
 
 Here are some of the relationships I'm interested in exploring in my work:
 - Costs of coordination associated with different information exchange modes or communication strategies
