@@ -36,8 +36,8 @@ Emerging methods for simulating the dynamics of work in human-robot teams could 
 Robust, resilient, and decentralized human-robot systems will pave the way towards advanced operations within distributed teams, facilitating the ablity to dynamically delegate authority, responsibility, and taskloads to other agents in the midst of rapidly shifting demands common in uncertain and complex environments. 
 
 
-
 <figure>
+  <img align="center">
   <img src='/images/Artemis.png' alt="NASA Artemis Concept Art">
   <figcaption> This concept art from NASA shows astronauts working in close proximity with robotic agents. The precise details of how they work together are one example of my research interests. How many robots should assist an astronaut performing surface EVA tasks? How is control handed off between astronauts? What is the authority delegated to the robot to make decisions based on software rules and sensor inputs?</figcaption>
 </figure>
