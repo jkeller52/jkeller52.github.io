@@ -22,8 +22,7 @@ My Research
   *A Gazebo simulation of NASA's Astrobee robot is being explored as a testbed for studying human-robot teamwork*
 
 
-Broadly, I'm interested in exploring the interactions of humans and machines within complex work. A goal of this work is amplify and extend the human capability to know, perceive, decide, plan, act and collaborate by integrating system functions with the cognitive processes they need to support. As systems include increasingly sophisticated automated technologies, so too does the need for shrewd engineering practices to observe, identify, and compensate for tradeoffs associated with automation.
-
+Broadly, I'm interested in exploring the interactions of humans and machines within complex work. A goal of this work is amplify and extend the human capability to know, perceive, decide, plan, act and collaborate by integrating system functions with the cognitive processes they need to support. Shrewd engineering practices drawn from Cognitive Systems Engineering and Resilience Engineering can help us build sociotechnical systems that best promote these capabilities.
 
 Here are some of the relationships I'm interested in exploring in my work:
 - Costs of coordination associated with different information exchange modes or communication strategies
