@@ -10,6 +10,7 @@ redirect_from:
 
 My name is Jacob Keller. I grew up in Hebron, Kentucky, and graduated from Ohio State University in 2020 with my BS in [Human Systems Integration](https://jkeller52.github.io/posts/2021/07/HSI). Currently, I'm a Graduate Research Associate within the Department of Integrated Systems Engineering at Ohio State. My research interests include human-machine teaming, resilience engineering, and computational modeling.
 
+I constantly update this website to reflect my most up-to-date thoughts and ideas about my work. You may find some rough patches here and there, as the site is constantly under construction. 
 
 My Research
 ======
