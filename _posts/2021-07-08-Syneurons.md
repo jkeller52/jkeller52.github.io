@@ -1,7 +1,7 @@
 ---
 title: 'Synthetic Neurons and Implications'
 date: 2020-07-08
-permalink: /posts/2021/07/syneurons
+permalink: /posts/2021/05/syneurons
 tags:
   - Random
   - AI
