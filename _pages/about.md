@@ -18,6 +18,7 @@ My Research
 
 ![AstrobeeGif](https://user-images.githubusercontent.com/70432484/124196130-c7b03f00-da99-11eb-9cb5-bb6b99b4f72a.gif)
   <img align="center">
+  
   *A Gazebo simulation of NASA's Astrobee robot is being explored as a testbed for studying human-robot teamwork*
 
 
